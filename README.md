@@ -1,7 +1,7 @@
 ### Zach Brantmeier
 Security Engineer at Talus Solutions
 
-UW-Madison Computer Science + Philosophy graduate
+BS Computer Science + Philosophy UW-Madison
 
 FIRST Robotics Team 6574 Ferradermis software mentor
 
