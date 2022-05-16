@@ -1,9 +1,9 @@
 ### Zach Brantmeier
-Security Engineer at Talus Solutions
+💼 Security Engineer at Talus Solutions
 
-BS Computer Science + Philosophy UW-Madison
+🎓 BS Computer Science + Philosophy from UW-Madison
 
-FIRST Robotics Team 6574 Ferradermis software mentor
+🤖 FIRST Robotics Team 6574 / Ferradermis code + electrical mentor
 
 <!--
 **brantmeierz/brantmeierz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
