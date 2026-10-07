@@ -1,5 +1,5 @@
 ### Zach Brantmeier
-💼 Security Engineer at Talus Solutions
+💼 IAM Security Engineer at Fulcrum Technology Solutions
 
 🎓 BS Computer Science + Philosophy from UW-Madison
 
